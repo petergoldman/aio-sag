@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<topic id="etap_2_badania_przemys_owe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="urn:oasis:names:tc:dita:xsd:topic.xsd">
+    <title>Etap 2 Badania Przemysłowe</title>
+    <abstract>
+        <p><b>Opis prac przewidzianych w ramach etapu limit znaków: 5000</b></p>
+        <p>Należy przedstawić szczegółowy opis planowanych prac wraz z ich uzasadnieniem w
+            kontekście wskazanego wcześniej zagadnienia technologicznego czy też celu projektu.
+            Należy zachować spójność z zaplanowanymi kosztami etapu, a także zasobami posiadanymi
+            oraz niezbędnymi do pozyskania, opisanymi w polu Zdolność Wnioskodawcy do wykonania
+            projektu.</p>
+        <p>W ramach pola tekstowego opisywane prace mogą być pogrupowane w mniejsze niż etap
+            jednostki, jeśli Wnioskodawca uważa, że istnieje taka potrzeba.</p>
+    </abstract>
+    <body>
+        <p>Etap 2</p>
+        <p>Zbudowanie i przebadanie urządzenia- KOMORA OBRÓBCZA 3D - obrabiającego w procesie
+            obróbki ściernej części – elementy, sterowanego programem w 3D zarządzającym pracą
+            robota lub napędami w osiach x,y,z.A</p>
+        <p>Proces będzie prowadzony przy użyciu głowic poruszanych ramieniem robota (6 osi) bądź
+            głowic poruszających się w osiach x,y,z.A Badanie odpowiednich zabezpieczeń urządzeń
+            mechanicznych przed działaniem agresywnego środowiska związanego z rodzajami mediów-
+            ścierniw.</p>
+        <p>Obróbka ścierna prowadzona ma być przy użyciu technologii inżektorowej bądź ciśnieniowej.
+            Proces obróbki wykonywany jest w urządzeniu z gwarancją podciśnienia w strefie obróbki
+            przy założeniu transportu pneumatycznego ścierniwa i produktów odpadowych. Powyższe cele
+            osiągnięte będą w wyniku badan i wniosków-wytycznych do projektowania systemów oraz
+            stworzenia wytycznych dotyczących celu projektu. W związku z powyższym należy:</p>
+        <ul id="ul_avt_vnx_xbb">
+            <li>
+                <p>przeprowadzić badanie zamkniętego wewnętrznego obiegu powietrza i ścierniwa w
+                    systemie-</p>
+            </li>
+            <li>
+                <p>przeprowadzić badania związane z transportem pneumatycznym ścierniwa,
+                    poszczególnych frakcji separowanego ścierniwa i odpadami po segregacji.</p>
+            </li>
+            <li>
+                <p>Przeprowadzić badania nad systemami separacji, odpylania i regeneracji oraz
+                    odbudowy wysokiej sprawności pracy zespołów filtrów w systemie odciągu.</p>
+            </li>
+        </ul>
+        <p>Poprawność pracy systemu jest gwarantem utrzymywania podciśnienia w systemie co w efekcie
+            daje ciągle utrzymanie czystości powietrza wokół urządzenia, poprawności założonej
+            separacji i założonego składu medium-ścierniwa oraz poprawności pracy całości transportu
+            pneumatycznego ścierniwa.</p>
+        <p/>
+        <p>Dla ustalenia wlasciwych parametrow obrobki sciernej elementow, zgodnych z wymogami
+            dokumentacji</p>
+        <p>lub oczekiwan uzytkownika, należy przeprowadzic szereg badan , prob i doswiadczen.</p>
+        <p>Badania powinny w efekcie wygenerować optymalne zespoły parametrów – wykresy , tabele
+            zaleznosci- niezbędnych do precyzyjnego , opartego na badaniach i modelach
+            matematycznych ustalenia warunków pracy głowic do obróbki ściernej elementów.</p>
+        <p>Badany będzie wpływ parametrów pracy głowicy czyszczącej, takich jak:</p>
+        <ul id="ul_kkh_f4x_xbb">
+            <li>
+                <p>odległość głowicy od powierzchni obrabianej w zakresie: 5-200mm,</p>
+            </li>
+            <li>
+                <p>ciśnienie pracy: 2-8 bar,</p>
+            </li>
+            <li>
+                <p>gęstość strumienia mieszanki scierniwo-powietrze: 1%-.90% i jego wielkość
+                    (przekrój strugi) fi 2-60mm,</p>
+            </li>
+            <li>
+                <p>kąt natarcia strumienia w stosunku do obrabianego wycinka powierzchni w zakresie
+                    90 do 30 stopni,</p>
+            </li>
+            <li>
+                <p>rodzaj ścierniwa od bardzo miekkich scierniw plastikowych przez korundowe,
+                    szklane do stalowych, o różnych stopniach degradacji i proporcji frakcji,</p>
+            </li>
+            <li>
+                <p>srednica dysz czyszczacych od 2.5mm do 13mm.</p>
+            </li>
+        </ul>
+        <p>Dotychczasowe badania i doswiadczenia pozwalają jedynie na przybliżony sposób doboru
+            podstawowych parametrów obrobki takich jak: cisnienie robocze, rodzaj scierniwa, czas
+            obrobki, co daje jedynie mozliwość przybliżonego przewidywania skutków obróbki, przy
+            jednoczesnym braku gwarancji powtarzalności uzyskiwanych efektów.</p>
+    </body>
+</topic>

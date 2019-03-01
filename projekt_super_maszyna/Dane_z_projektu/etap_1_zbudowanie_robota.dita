@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<topic id="etap_1_zbudowanie_robota" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="urn:oasis:names:tc:dita:xsd:topic.xsd">
+    <title>Etap 1 Zbudowanie Prototypu</title>
+    <body>
+        <p>Etap 1.</p>
+        <p> Zbudowanie labolatoryjnego prototypu urządzenia “ PARAMETRYCZNY SKANER 3D CAD-CAM “
+            skanującego elementy o wymiarach do H800 W1000 D1000, przeznaczone do obrobki ściernej ,
+            tworząc ich pełny obraz 3D, poprzez dobor i badanie odpowiednich dla procesu urzadzen
+            skanujacych</p>
+        <p> wraz z oprogramowaniem umozliwiajacym tworzenie programu sterującego pracą głowicy
+            czyszczącej piaskarki i mozliosc tworzenia zasobow biblioteki części przeznaczonych do
+            obrobki we wlasciwych formatach pod potrzeby parametrow obrobczych dla glowic
+            czyszczacych 3D.</p>
+        <p>Oprogramowanie powinno posiadać możliwości ustalania gęstości skanowania w zakresie 1
+            -2.0mm, stopnia dokładności obrazu 3D 1mm - 2.0mm oraz uśredniania kształtu R=1.0mm –
+            R5.0mm,</p>
+        <p>pod potrzeby programu procesu obróbki, przy założonej odległości głowicy czyszczacej od
+            powierzchni w zakresie 5-200mm jak i średnicy czynnego strumienia ścierniwa w trakcie
+            obróbki 5-50mm.</p>
+        <p>Oprogramowanie powinno zawierac możliwość wpływu przez operatora na ww. parametry
+            skanowania, a także na dalszy sposób obróbki poszczególnych powierzchni obrabianego
+            elementu, przez ramię obrobcze robota .</p>
+    </body>
+</topic>

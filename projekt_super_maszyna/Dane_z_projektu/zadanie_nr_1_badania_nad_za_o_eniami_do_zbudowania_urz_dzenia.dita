@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<topic id="zadanie_nr_1_badania_nad_za_o_eniami_do_zbudowania_urz_dzenia" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="urn:oasis:names:tc:dita:xsd:topic.xsd">
+    <title>Zadanie nr 1 Badania nad założeniami do zbudowania urządzenia</title>
+    <body>
+        <p>Zadanie nr 1</p>
+        <p>Badania nad założeniami do zbudowania urządzenia – system kontroli i regulacji parametrów
+            ścierniwa w realnym czasie gwarantującego płynne utrzymywanie parametrów zgodnych z
+            założeniami obróbki.</p>
+        <p>Powyższe realizowane będzie poprzez budowanie modeli urządzeń i ocenę ich skuteczności w
+            zakresie regulacji parametrów ścierniwa</p>
+        <p>Wyniki badan określa wytyczne do powstania projektu urządzenia realizującego założenia
+            -skuteczna kontrole i bieżąca zmianę parametrów ścierniwa w procesie obróbki
+            ściernej.</p>
+    </body>
+</topic>

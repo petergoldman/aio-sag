@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<topic id="ryzyka_zagro_enia" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="urn:oasis:names:tc:dita:xsd:topic.xsd">
+    <title>Ryzyka/zagrożenia Etapu 1</title>
+    <abstract>
+        <p>W odniesieniu do planowanych prac BAR należy wskazać główne ryzyka/zagrożenia, które mogą
+            utrudnić/uniemożliwić osiągnięcie ich zakładanego efektu końcowego, w szczególności:<ol
+                id="ol_grb_smx_xbb">
+                <li>natury technologicznej – co może przeszkodzić w zastosowaniu przyjętej
+                    koncepcji, z jakiego powodu przyjęta koncepcja może okazać się niewłaściwa;</li>
+                <li>natury Prawno – administracyjnej – np. konieczność uzyskania zgód, decyzji.</li>
+            </ol></p>
+        <p>Wobec wszystkich ryzyka i zagrożeń należy wskazać najbardziej efektywne metody
+            zapobiegania im, ich wpływ na realizację projektu w przypadku wystąpienia, a także
+            sposoby minimalizacji ich skutków.</p>
+    </abstract>
+    <body>
+        <p>Czas badania czystości patentowej procesów, każdej części projektu. Uzyskanie dostępu do
+            opatentowanych, chronionych rozwiązań , które muszą być użyte przy realizacji celu.
+            Środki finansowe w przypadku konieczności korzystania z rozwiązań opatentowanych. Nie
+            ujawnionych w procesie badania czystości patentowej projektu.</p>
+    </body>
+</topic>

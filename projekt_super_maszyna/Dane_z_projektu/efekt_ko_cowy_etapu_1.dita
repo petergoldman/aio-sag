@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<topic id="efekt_ko_cowy_etapu_1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="urn:oasis:names:tc:dita:xsd:topic.xsd">
+    <title>Efekt końcowy etapu 1</title>
+    <abstract>
+        <p><b>Efekt końcowy etapu – kamień milowy limit znaków: 1000</b></p>
+        <p>Etapy należy zdefiniować w taki sposób, aby każdy z nich kończył się kamieniem milowym,
+            tj. produktem, na podstawie którego będzie każdorazowo zapadała decyzja o kontynuacji/
+            przerwaniu/modyfikacji projektu. Jako kamień milowy można wskazać np. osiągnięcie
+            określonych wyników badań, wypracowanie analizy, syntezy lub porównania zdobytej wiedzy,
+            zakończenie testów, sporządzenie raportu, etc. zależnie od branży i specyfiki danego
+            projektu. W miarę możliwości należy wybierać efekty łatwe do skwantyfikowania
+            (mierzalne). Etapy oraz związane z nimi kamienie milowe będą podstawą dla monitoringu
+            postępów realizacji projektu.</p>
+    </abstract>
+    <body>
+        <p>Wynikiem realizacji etapu nr 1 jest</p>
+        <p>Powstanie zbioru wytycznych i badan labolatoryjnych niezbednych do prawidlowego
+            zaprojektowania i zbudowania oraz oprogramowania prototypu urządzenia skanującego
+            dowolny obiekt 3D(w granicach założonej strefy pracy H=800 x1000 x1000), poprzez
+            poruszanie się głowic skanujących bądź obiektu skanowanego z predkoscia od 0.1 do
+            250mm/sec. I niezbedna gestoscia skanu wunikajaca z prawidlowych warunkow procesu
+            obrobki .</p>
+        <p>Powstanie zpozycjonowanego obrazu 3D obiektu w założonej rozdzielczości (.1 mm do 5.0mm
+            jako zmienny parametr),</p>
+        <p>Powstanie obrazu 3D – pliku w wybranych standartowych formatach umozliwiajacych</p>
+        <p>stworzenie programu praca głowicy 3D - czyszczącej-obróbczej .</p>
+    </body>
+</topic>

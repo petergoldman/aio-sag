@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<glossentry id="iot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="urn:oasis:names:tc:dita:xsd:glossary.xsd">
+    <glossterm>IOT</glossterm>
+    <glossdef>Internet Of Things jest standardem w zakresie uniwersalnego komunikowania się
+            urządzeń<p>Jest on obecnie przedmiotem działań praktycznie wszystkich firm oraz
+            korporacji dostarczających systemy automatyki a także i elektroniki
+        użytkowej.</p></glossdef>
+    <related-links>
+        <link href="https://www.postscapes.com/internet-of-things-protocols/" format="html"
+            scope="external"/>
+        <link
+            href="https://www.sas.com/pl_pl/insights/internet-of-things.html?gclid=CjwKCAiA9MTQBRAREiwAzmytwxDOwTId1D2H33elu5gSn_WGR5kEouPB3vb9ey8HWDffb8CZ-1wCfBoC9YcQAvD_BwE"
+            format="html" scope="external"/>
+    </related-links>
+</glossentry>

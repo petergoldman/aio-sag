@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<topic id="zadanie_4_badanie_zale_no_ci_parametr_w_" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="urn:oasis:names:tc:dita:xsd:topic.xsd">
+    <title>Zadanie 4 badanie zależności parametrów </title>
+    <body>
+        <p>Zadanie nr 4</p>
+        <p>Badania i opracowanie zaleznosci parametrow obrobki sciernej od parametrow
+            technicznych</p>
+        <p>scierniw i materialow powierzchni obrabianych, bioracych udzial w procesach
+            obrobczych.</p>
+        <p>Dobor i badanie - przetestowanie oprogramowania CAD/CAM sterującego pracą głowic 3D
+            urządzenia obróbczego powstającego na podstawie obrazu 3D powstałego w wyniku pracy
+            skanera 3D (w jednym procesie). Przeprowadzone zostaną badania na temat sposobu doboru
+            parametrów dla procesów skanowania oraz parametrow pracy głowicy obróbczej 3D,</p>
+        <p>które będą optymalnie sterowały procesem obróbki ściernej obrabianych obiektow.</p>
+        <p>Badania będą prowadzone poprzez testy oprogramowania procesu obróbki , ustalania
+            parametrow</p>
+        <p>skanowania i obrobki dla powiazania procesu skanowania z procesem obrobki.Np. Gestosci
+            skanowania i gestosci wymaganego procesu obrobki i jej parametrow.</p>
+        <p>W wyniku badan powstaną założenia do końcowego programu , który zabezpieczy
+            optymalizacje</p>
+        <p>procesu skanowania i obrobki, minimalizujac ilosc parametrow i gwarantujac poprawnosc
+            obrobki.</p>
+        <p>( korespondencja z WAT )</p>
+    </body>
+</topic>

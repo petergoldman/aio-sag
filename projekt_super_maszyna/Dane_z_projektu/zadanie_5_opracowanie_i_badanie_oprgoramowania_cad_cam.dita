@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<topic id="zadanie_5_opracowanie_i_badanie_oprgoramowania_cad_cam" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="urn:oasis:names:tc:dita:xsd:topic.xsd">
+    <title>Zadanie 5 opracowanie i badanie oprgoramowania CAD/CAM</title>
+    <body>
+        <p>ZADANIE 5</p>
+        <p>Opracowanie i badanie - testowanie oprogramowania CAD/CAM</p>
+        <p>głowic skanujacych tworzacych obraz 3D skanowanego elementu z okresleniem gamy parametrów
+            skanowania pod kątem doboru- wyboru parametrow pracy głowicy obróbczej 3D,</p>
+        <p>które pozwola na optymalne sterowanie procesem obróbki ściernej obrabianych obiektow.</p>
+        <p>Badania będą prowadzone poprzez testy oprogramowania procesu skanowania i jego wyniku
+            -obrazu 3D</p>
+        <p>, ustalania parametrow skanowania i obrobki dla powiazania procesu skanowania z procesem
+            obrobki.takich jak :, Gestosci skanowania dla uzyskania optymalnego obrazu obiektu
+            skanowanego w swietle gestosci wymaganego procesu obrobki i jej parametrow.</p>
+        <p>Format obrazu 3D obiektu skanowanego ma dawac mozliwosci zbudowania</p>
+        <p>programu obrobczego glowicy obrobczej 3D .</p>
+        <p>Proces szybkiego skanowania na przejezdnym stanowisku roboczym ma dawac mozliwosc
+            pozycjonowania uprzednio zeskanowanego elementu pod potrzeby dostosowania programu
+            obrobczego do biezacej pozycji elementu w strefie borobczej.</p>
+        <p>Dotyczy to obrobki w systemie tasmowym.</p>
+        <p>W wyniku badan powstaną założenia do programu skanowania w wyniku którego powstaje obraz
+            3D elementu skanowanego,</p>
+        <p>oraz zabezpieczy on optymalizacje procesu skanowania i obrobki,</p>
+        <p>minimalizujac ilosc parametrow i gwarantujac poprawnosc obrobki.</p>
+        <p> ( I F J Krakow )</p>
+    </body>
+</topic>

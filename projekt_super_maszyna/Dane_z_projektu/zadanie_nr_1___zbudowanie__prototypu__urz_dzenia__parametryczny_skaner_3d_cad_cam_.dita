@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<topic id="zadanie_nr_1___zbudowanie__prototypu__urz_dzenia__parametryczny_skaner_3d_cad_cam_" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="urn:oasis:names:tc:dita:xsd:topic.xsd">
+    <title>Zadanie nr 1   Zbudowanie  prototypu  urządzenia “PARAMETRYCZNY SKANER 3D CAD-CAM“</title>
+    <body>
+        <p>Zadanie nr 1</p>
+        <p> Zbudowanie prototypu urządzenia PARAMETRYCZNY SKANER 3D CAD-CAM <indexterm>PARAMETRYCZNY
+                SKANER 3D CAD-CAM</indexterm> skanującego elementy o wymiarach do H800 W1000 D1000,
+            przeznaczone do obrobki ściernej , tworząc ich pełny obraz 3D, z wykorzystaniem badan
+            labolatoryjnych i ich wynikow okreslonych w etapie nr 1 .</p>
+        <p> oraz oprogramowaniem umozliwiajacym tworzenie programu</p>
+        <p> sterującego pracą głowicy czyszczącej piaskarki</p>
+        <p> Tworzenie struktury zasobow biblioteki części przeznaczonych do obrobki we wlasciwych
+            formatach pod potrzeby parametrow obrobczych dla glowic czyszczacych 3D.oraz i obrazow
+            3D czesci jako importowanych.</p>
+        <p>Testowanie oprogramowania posiadajacego możliwości ustalania gęstości skanowania w
+            zakresie 1 -2.0mm, stopnia dokładności obrazu 3D 1mm - 2.0mm oraz uśredniania kształtu
+            R=1.0mm – R5.0mm,</p>
+        <p>pod potrzeby programu procesu obróbki, przy założonej odległości głowicy czyszczacej od
+            powierzchni w zakresie 5-200mm jak i średnicy czynnego strumienia ścierniwa w trakcie
+            obróbki 5-50mm.</p>
+        <p>Testowanie mozliwoci szybkiego skanowania elementow pod procesy automatycznej obrobki
+            tasmowej -potwierdzanie obecnosci elementu i jego pozycjonowanie pod potrzeby komory
+            obrobczej 3D.</p>
+        <p>Testowanie możliwość wpływu przez operatora na ww. parametry skanowania, a także na
+            dalszy sposób obróbki poszczególnych powierzchni obrabianego elementu, przez ramię
+            obrobcze robota .</p>
+    </body>
+</topic>

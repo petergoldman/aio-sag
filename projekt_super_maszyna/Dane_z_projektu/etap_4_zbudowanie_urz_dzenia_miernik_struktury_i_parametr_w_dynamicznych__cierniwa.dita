@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<topic id="etap_4_zbudowanie_urz_dzenia_miernik_struktury_i_parametr_w_dynamicznych__cierniwa" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="urn:oasis:names:tc:dita:xsd:topic.xsd">
+    <title>Etap 4 Zbudowanie urządzenia Miernik Struktury i parametrów dynamicznych ścierniwa</title>
+    <body>
+        <p>Etap 4</p>
+        <p>Zbudowanie urządzenia “MIERNIK STRUKTURY I PARAMETRÓW DYNAMICZNYCH ŚCIERNIWA”</p>
+        <p>do ciągłej kontroli struktury i parametrów medium używanego w procesie obróbki ściernej w
+            realnym czasie (skład fizyczny i parametry dynamiczne) Badania nad sposobem zbudowania i
+            pracy urządzenia oraz jego modyfikacje wraz z określeniem niezbędnych parametrów
+            ścierniwa pod katem minimalizacji niezbędnych informacji umożliwiających współprace
+            miernika z innymi urządzeniami sterującymi zmianami składu medium ściernego.</p>
+        <p>Struktura medium używanego w procesie obróbki ściernej ma decydujący wpływ na jakość
+            obróbki i jej powtarzalność zwłaszcza w systemach obróbki automatycznej</p>
+        <p>długich serii , gdzie obrobka jest prowadzona w sposob ciagly.</p>
+        <p>Informacja o stanie medium obróbczego daje możliwość wpływania na jego skład i gwarancje
+            niezmiennych założonych projektowo parametrów wykańczanej – obrabianej powierzchni.</p>
+        <p>Urządzenie powinno mieć system komunikacji z operatorem i innymi urządzeniami
+            uruchamianymi w procesie regulacji składu ścierniwa użytego do obróbki ściernej oraz
+            możliwość informowania o odchyłkach od założonych parametrów.</p>
+    </body>
+</topic>

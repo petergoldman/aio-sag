@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<topic id="zadanie_4_zbudowanie_prototypu_urz_dzenia_skanuj_cego" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="urn:oasis:names:tc:dita:xsd:topic.xsd">
+    <title>Zadanie 4 zbudowanie prototypu urządzenia skanującego</title>
+    <body>
+        <p>ZADANIE 4</p>
+        <p>budowanie labolatoryjnego , prototypowego urządzenia skanującego dajacego mozliwosc
+            przeprowadzania badan i prob pracy różnymi rodzajami głowic</p>
+        <p>wraz z oprogramowaniem sposobu pracy głowic przy zalozeniu zmiennych parametrów w
+            zakresie predkosci skanowania od 0 do 250 mm /sec oraz gestosci skanowania od.1mm
+            do5.0mm.</p>
+        <p>Wynikiem prac będzie mozliwosc przeprowadzania badan labolatoryjnych zalozonych rozwiazan
+            i procesow zwiazanych ze skanowaniem obiektow , które maja podlegac pozniejszej obrobce
+            sciernej.</p>
+        <p>( Instytut Fizyki Jadrowej - KRAKOW)</p>
+    </body>
+</topic>

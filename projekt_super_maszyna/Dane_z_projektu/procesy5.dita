@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<glossentry id="procesy5" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="urn:oasis:names:tc:dita:xsd:glossary.xsd">
+    <glossterm>Procesy5</glossterm>
+    <glossdef>Jest systemem opartym na bazie założeń <xref keyref="Patent">Patentu</xref> .
+            <p>Umożliwia między innymi: <ol id="ol_bhc_rvx_xbb">
+                <li>szybką realizację zintegrowanej bazy danych dla wsparcia realizacji:</li>
+            </ol></p></glossdef>
+</glossentry>

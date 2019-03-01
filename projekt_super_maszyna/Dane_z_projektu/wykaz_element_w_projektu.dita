@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glossgroup id="wykaz_element_w_projektu" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="urn:oasis:names:tc:dita:xsd:glossarygroup.xsd">
+    <title>Wykaz elementów projektu</title>
+    <glossentry id="ddl">
+        <glossterm>Głowica skanująca</glossterm>
+        <glossdef>Opisana w <xref href="zadanie_3_dob_r_g_owic_skanuj_cych.dita"/>, ma tworzyć obraz
+            3D</glossdef>
+    </glossentry>
+    <glossentry id="glossentry_uw2_cwx_xbb">
+        <glossterm>Obraz 3d części skanowanej</glossterm>
+        <glossdef>Obraz ma być pobrany z <xref href="#ddl" format="dita"/> i przetwarzany w ramach
+                <xref href="#glossentry_etw_hwx_xbb" format="dita"/>, opisanego w <xref
+                href="zadanie_5_opracowanie_i_badanie_oprgoramowania_cad_cam.dita"/> i <xref
+                href="zadanie_5_opracowanie_i_badanie_oprgoramowania_cad_cam.dita"/></glossdef>
+    </glossentry>
+    <glossentry id="glossentry_etw_hwx_xbb">
+        <glossterm>System Sterowania</glossterm>
+        <glossdef>Wykonany w ramach <xref
+                href="zadanie_5_opracowanie_i_badanie_oprgoramowania_cad_cam.dita"/>. <p>Ma
+                umożliwiać tworzenie modelu 3d dla potrzeb wykonywania przez maszynę czynności
+                obróbki/skrawania itp- w celu automatyzacji tego procesu.  Zwłaszcza dla przypadku
+                obróbkiw systemie taśmowym. </p></glossdef>
+    </glossentry>
+</glossgroup>

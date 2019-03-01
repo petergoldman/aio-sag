@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<topic id="zadanie_1___analiza_potrzeb_otoczenia_bizensowego_w_celu_wytworzenia_niezb_dnych_funkcjonalno_ci_po__czenia_maszyny_z_otoczeniem_" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="urn:oasis:names:tc:dita:xsd:topic.xsd">
+    <title>Zadanie 1 - Analiza potrzeb otoczenia bizensowego w celu wytworzenia niezbędnych funkcjonalności połączenia maszyny z otoczeniem </title>
+    <body>
+        <p>Celem tego działania jest ustalenie dziedziny systemu dla następujących potrzeb:<ol
+                id="ol_llx_wxx_xbb">
+                <li>Umożliwienie zintegrowania maszyny z innymi istniejącymi systemami</li>
+                <li>automatyzacje kontroli oraz serwisu</li>
+                <li>automatyzację szkoleń</li>
+                <li>automatyzacje procesów zamawiania materiałów eksploatacyjnych</li>
+                <li>podłączenie maszyny do serwisu WWW w celu optymalizacji jej pracy, udostępnienia
+                    informacji o zleceniach etc...<note>do rozbudowania</note></li>
+            </ol></p>
+    </body>
+</topic>

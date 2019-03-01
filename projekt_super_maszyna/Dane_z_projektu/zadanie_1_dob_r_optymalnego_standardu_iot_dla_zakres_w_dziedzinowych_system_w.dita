@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<topic id="zadanie_1_dob_r_optymalnego_standardu_iot_dla_zakres_w_dziedzinowych_system_w" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="urn:oasis:names:tc:dita:xsd:topic.xsd">
+    <title>Zadanie 1 dobór optymalnego standardu IOT dla zakresów dziedzinowych systemów</title>
+    <body>
+        <p>Należy przeanalizować rodzaje danych oraz potrzeby w ramach bezpieczeństwa komunikacji w
+            celu dobrania optymalnego istniejącego standardu IOT dla zapewnienia uniwesralności
+            komunikacji. </p>
+        <p>Umożliwi to<ol id="ol_s32_4xx_xbb">
+                <li> szybkie i tanie zaimplementowanie rozwiązań wielu producentów w zakresie
+                    kontroli oraz wykorzystania tak stworzonych modułów.</li>
+                <li>przyśpieszy i potani prace rozwojowe dla sprawdzonych sytuacji oraz ograniczy
+                    możliwość popełnienia błędów projektowych</li>
+            </ol></p>
+    </body>
+</topic>

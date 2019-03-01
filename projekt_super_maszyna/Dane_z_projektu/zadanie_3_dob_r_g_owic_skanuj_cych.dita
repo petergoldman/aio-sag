@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<topic id="zadanie_3_dob_r_g_owic_skanuj_cych" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="urn:oasis:names:tc:dita:xsd:topic.xsd">
+    <title>Zadanie 3 Dobór Głowic Skanujących</title>
+    <body>
+        <p>ZADANIE 3</p>
+        <p>Badania labolatoryjne wybranych roznych typow i rodzajow głowic skanujących pod kątem
+            optymalnej realizacji założeń w zakresie uzyskania obrazu 3D części skanowanej</p>
+        <p>pod potrzeby tworzenia programu sterującego głowicami obrobczymi -czyszczącymi 3D.</p>
+        <p>Badania możliwości głowic skanujacych o różnych rozdzielczościach tworzonego obrazu i w
+            konsekwencji programu dla glowicy czyszczacej</p>
+        <p>pod kątem okreslenia limitow predkosci i dolkadnosci w zaleznosci od wielkosci</p>
+        <p>i stopnia skomplikowania obiektow podlegajacych pomiarom i pozniejszej obrobce.</p>
+        <p>Wynik badan to wytyczne doboru typow glowic skanujacych w zaleznosci od zalozen</p>
+        <p>procesow obrobczych.</p>
+    </body>
+</topic>

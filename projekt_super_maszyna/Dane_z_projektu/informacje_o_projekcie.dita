@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<topic id="informacje_o_projekcie" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="urn:oasis:names:tc:dita:xsd:topic.xsd">
+    <title>Informacje o projekcie</title>
+    <body>
+        <p><b>Opis prac przewidzianych w ramach etapu limit znaków: 5000</b></p>
+        <p>Należy przedstawić szczegółowy opis planowanych prac wraz z ich uzasadnieniem w
+            kontekście wskazanego wcześniej zagadnienia technologicznego czy też celu projektu.
+            Należy zachować spójność z zaplanowanymi kosztami etapu, a także zasobami posiadanymi
+            oraz niezbędnymi do pozyskania, opisanymi w polu Zdolność Wnioskodawcy do wykonania
+            projektu. W ramach pola tekstowego opisywane prace mogą być pogrupowane w mniejsze niż
+            etap jednostki, jeśli Wnioskodawca uważa, że istnieje taka potrzeba.</p>
+    </body>
+</topic>

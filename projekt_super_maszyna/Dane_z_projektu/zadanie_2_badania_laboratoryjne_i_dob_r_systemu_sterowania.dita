@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<topic id="zadanie_2_badania_laboratoryjne_i_dob_r_systemu_sterowania" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="urn:oasis:names:tc:dita:xsd:topic.xsd">
+    <title>Zadanie 2 Badania Laboratoryjne i dobór systemu sterowania</title>
+    <body>
+        <p>ZADANIE 2</p>
+        <p>Badania labolatoryjne i dobor optymalnego systemu sterowania ruchami niezbędnymi do
+            realizacji zadania- silniki krokowe, serwonapedy , przelozenia itp. Masa glowic
+            skanujacych -poruszajacych się elementow wynosi od .5 do 3.0 kg</p>
+        <p>Próby z doborem rodzajów napędów, prędkości poruszania się głowic skanujacych w zakresie
+            predkosci</p>
+        <p>liniowej od 0 do 250mm/sec. Badania będą wykonywane poprzez budowanie i próby
+            labolatoryjne systemów napędów poruszajacych glowice skanujace, pojedyncze jak i zespoly
+            golwic.</p>
+        <p>Wynik badan labolatoryjnych to</p>
+        <p>wytyczne doboru systemow sterowania i napedow urzadzen Parametrycznego Skanera 3D</p>
+    </body>
+</topic>

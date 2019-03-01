@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<topic id="etap_p12_analiza_zakresu_mo_liwo_ci_wdro_enia_frameworku_procesy5_opartego_na_rozpatrzonym_po_fazie_pre_exam_wniosku_patentowym_00299.00001us1_dla_oprogramowania_model_driven__bpmn_and_industrial_automation" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="urn:oasis:names:tc:dita:xsd:topic.xsd">
+    <title>Etap P11 Analiza zakresu możliwości wdrożenia frameworku Procesy5 opartego na
+        rozpatrzonym po fazie PRE-EXAM wniosku patentowym 00299.00001US1 dla oprogramowania Model
+        Driven, BPMN and Industrial Automation</title>
+    <body>
+        <p>W ramach<xref keyref="Patent"/> oraz działań powiązanego zakresu działania <xref
+                href="etap_p11_badania_pod_k_tem_wykorzystania_standardu_protoko_u_iot_internet_of_things.dita"
+            /> będzie analizowany standard <xref keyref="IOT"/>.</p>
+        <p>W ramach wybranego w ramach systemu <xref keyref="Procesy5"/> jest możliwa implementacja
+            dla standardu <xref keyref="IOT"/>, dla wsparcia następujących obszarów:<ol
+                id="ol_m34_wwx_xbb">
+                <li><xref href="zadanie_5_opracowanie_i_badanie_oprgoramowania_cad_cam.dita"/></li>
+                <li><xref href="zadanie_2_zbudowanie_i_przetestowanie_urz_dzenia_.dita"/> - obsługa
+                    pomiarów.</li>
+                <li><xref href="badanie___ocena_mo_liwo_ci_wsp__pracy_z_zewn_trznymi_systemami.dita"
+                    /></li>
+                <li><xref
+                        href="etap_5_badania_nad_za_o_eniami_i_zbudowanie_systemu_kontroli_i_regulacji_.dita"
+                    /></li>
+            </ol>
+        </p>
+    </body>
+</topic>

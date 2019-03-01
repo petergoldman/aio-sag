@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<glossentry id="patent_w_ramach_in_ynierii_oprogramowania_model_driven_dla_wsparcia_iot__zarz_dzania_procesami_oraz_automatyk__przemys_ow_" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="urn:oasis:names:tc:dita:xsd:glossary.xsd">
+    <glossterm>Patent w ramach inżynierii oprogramowania Model-Driven dla wsparcia IOT, zarządzania procesami oraz automatyką przemysłową</glossterm>
+    <glossdef><p>Nazwa patentu: METHOD, DEVICE, SYSTEM OF MODEL-DRIVEN ENGINEERING OF EFFICIENT
+            INDUSTRIAL AUTOMATION PROCESS AND BUSINESS PROCESS MODELING WITH BPMN USING NATIVE
+            COMPUTATION OF XML SCHEMAS AND OBJECTS  jest złożonym formalnie wnioskiem patenteowym w
+            US i  udostępnionym dla potrzeb realizacji części zamierzeń z jego zakresu. </p><p>EFS
+            ID: 25957957</p><p>Application Number: 15172168 </p>Patent dotyczy efektywnego
+        połączenia kilku technologii dla wsparcia sposobu wytwarzania oprgoramowania wraz z
+        otoczeniem biznesowym. <p>Rozwiążanie umożliwia:<ol id="ol_vms_55x_xbb">
+                <li>Szybkie stworzenie aplikacji na bazie wymagań modeli</li>
+                <li>Modelowanie, kontrolę oraz dokumentację procesów biznesowych</li>
+                <li>Likwidację uciążliwości w zakresie utrzymania systemu jakości poprzez
+                    utrzymywanie jednej bazy choreografii procesów, zawierającej zaadresowane
+                    wszelkie wejścia/wyjścia<ol id="ol_iqy_y5x_xbb">
+                        <li>umożliwia ona przetwarzanie w zakresie zapewnienia konfiguracji
+                            urządzeń</li>
+                        <li>analizy zdarzeń jakie mogą się wydarzyć na danych urządzeniach</li>
+                        <li>wygenerowanie dokumetnacji</li>
+                        <li>wsparcie dla procesów odtwarzania zasobów (rewitalizacji)</li>
+                    </ol></li>
+                <li>Wsparcie dla <xref keyref="IOT"/></li>
+            </ol>Częściowy zakres dla powyższych działań umożliwia system <xref keyref="Procesy5"/>,
+            realizowany w ramach partnerskiej współpracy z firmą BIALL-NET. </p></glossdef>
+</glossentry>

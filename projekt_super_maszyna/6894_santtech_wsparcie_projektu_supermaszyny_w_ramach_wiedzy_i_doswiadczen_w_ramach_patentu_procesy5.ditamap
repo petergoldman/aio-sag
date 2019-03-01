@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="urn:oasis:names:tc:dita:xsd:map.xsd">
+    <title>6894 SantTech wsparcie projektu supermaszyny w ramach wiedzy i doswiadczen w ramach patentu Procesy5</title>
+    <topicref href="Dane_z_projektu/informacje_o_projekcie.dita">
+        <topicref href="Dane_z_projektu/etap_1_zbudowanie_robota.dita">
+            <topicref href="Dane_z_projektu/zadanie_1_dobranie_rozwi_za__technicznych.dita"/>
+            <topicref
+                href="Dane_z_projektu/zadanie_2_badania_laboratoryjne_i_dob_r_systemu_sterowania.dita"/>
+            <topicref href="Dane_z_projektu/zadanie_3_dob_r_g_owic_skanuj_cych.dita"/>
+            <topicref
+                href="Dane_z_projektu/zadanie_4_zbudowanie_prototypu_urz_dzenia_skanuj_cego.dita"/>
+            <topicref
+                href="Dane_z_projektu/zadanie_5_opracowanie_i_badanie_oprgoramowania_cad_cam.dita"/>
+            <topicref href="Dane_z_projektu/efekt_ko_cowy_etapu_1.dita"/>
+            <topicref href="Dane_z_projektu/ryzyka_zagro_enia.dita"/>
+        </topicref>
+        <topicref href="Dane_z_projektu/etap_3_badania_przemys_owe.dita"/>
+        <topicref
+            href="Dane_z_projektu/etap_4_zbudowanie_urz_dzenia_miernik_struktury_i_parametr_w_dynamicznych__cierniwa.dita">
+            <topicref href="Dane_z_projektu/zadanie_1_poszukiwanie_skutecznej_metody_miernika.dita"/>
+            <topicref href="Dane_z_projektu/zadanie_2_zbudowanie_i_przetestowanie_urz_dzenia_.dita"/>
+            <topicref href="Dane_z_projektu/efekt_ko_cowy_etapu_4.dita"/>
+        </topicref>
+        <topicref href="Dane_z_projektu/etap_2_badania_przemys_owe.dita">
+            <topicref
+                href="Dane_z_projektu/badanie___ocena_mo_liwo_ci_wsp__pracy_z_zewn_trznymi_systemami.dita"/>
+            <topicref href="Dane_z_projektu/zadanie_1_badanie_rozwi_za__konstrukcyjnych.dita"/>
+            <topicref href="Dane_z_projektu/zadanie_2_zbudowanie_oraz_analiza_pracy_urz_dzenia.dita"/>
+            <topicref
+                href="Dane_z_projektu/zadanie_2_opracowanie_wytycznych_kom_r_czyszcz_cych.dita"/>
+            <topicref href="Dane_z_projektu/zadanie_4_badanie_zale_no_ci_parametr_w_.dita"/>
+            <topicref href="Dane_z_projektu/zadanie_6_oprogramowanie_cad_cam_do_pracy_g_owicy.dita"/>
+            <topicref href="Dane_z_projektu/efekt_ko_cowy_etapu_2___zbudowanie_komory.dita"/>
+        </topicref>
+        <topicref href="Dane_z_projektu/etap__3_cyklon___separator_scierniwa.dita">
+            <topicref
+                href="Dane_z_projektu/zadanie_nr_1_budowa_i_badanie_warunkow_pracy_urz_dzenia_cyklon_separator__cierniwa_.dita"/>
+            <topicref
+                href="Dane_z_projektu/zadanie_nr_2_opracowanie_za_o_e__projektowych_dla_separatora.dita"
+            />
+        </topicref>
+        <topicref href="Dane_z_projektu/etap_7_badanie_i_budowa__dociagu_filtrow__wentylatora.dita">
+            <topicref
+                href="Dane_z_projektu/zadanie_nr_1_zaprojektowanie_i_zbudowanie_urzadzen_dla_do_cel_w_testowych.dita"/>
+            <topicref
+                href="Dane_z_projektu/zadanie_nr_3_badania_sposob_w_pomiar_w_podci_nienia.dita"/>
+            <topicref
+                href="Dane_z_projektu/efekt_koncowy_etapu_7_zbudowanie_urz_dzenia_do_pomiaru_podci_nienia....dita"
+            />
+        </topicref>
+        <topicref
+            href="Dane_z_projektu/etap_5_badania_nad_za_o_eniami_i_zbudowanie_systemu_kontroli_i_regulacji_.dita">
+            <topicref
+                href="Dane_z_projektu/zadanie_nr_1_badania_nad_za_o_eniami_do_zbudowania_urz_dzenia.dita"/>
+            <topicref
+                href="Dane_z_projektu/zadanie__nr_2_uruchomienie_urz_dzenia_systemu_kontroli_i_regulacji__parametr_w__cierniwa_w_realnym_czasie.dita"
+            />
+        </topicref>
+        <topicref
+            href="Dane_z_projektu/etap_6__zbudowanie_urz_dzenia_do_bezkontaktowej_metody_pomiar_w_chropowato_ci.dita">
+            <topicref href="Dane_z_projektu/zadanie_1___badania_sposob_w_pomiaru_chropowato_ci.dita"/>
+            <topicref
+                href="Dane_z_projektu/zadanie_2__zbudowanie_i_oprogramowanie_urz_dzenia_pomiarowego.dita"
+            />
+        </topicref>
+        <topicref href="Dane_z_projektu/etap_10_prace_rozwojowe.dita">
+            <topicref
+                href="Dane_z_projektu/zadanie_nr_1___zbudowanie__prototypu__urz_dzenia__parametryczny_skaner_3d_cad_cam_.dita"
+            />
+        </topicref>
+        <topicref
+            href="Dane_z_projektu/etap_p12_analiza_zakresu_mo_liwo_ci_wdro_enia_frameworku_procesy5_opartego_na_rozpatrzonym_po_fazie_pre_exam_wniosku_patentowym_00299.00001us1_dla_oprogramowania_model_driven__bpmn_and_industrial_automation.dita">
+            <topicref
+                href="Dane_z_projektu/zadanie_1___analiza_potrzeb_otoczenia_bizensowego_w_celu_wytworzenia_niezb_dnych_funkcjonalno_ci_po__czenia_maszyny_z_otoczeniem_.dita"
+            />
+        </topicref>
+        <topicref
+            href="Dane_z_projektu/etap_p11_badania_pod_k_tem_wykorzystania_standardu_protoko_u_iot_internet_of_things.dita">
+            <topicref
+                href="Dane_z_projektu/zadanie_1_dob_r_optymalnego_standardu_iot_dla_zakres_w_dziedzinowych_system_w.dita"
+            />
+        </topicref>
+        <topicref href="Dane_z_projektu/wykaz_element_w_projektu.dita"/>
+    </topicref>
+    <topicref href="Dane_z_projektu/iot.dita">
+        <keydef href="Dane_z_projektu/iot.dita" keys="IOT"/>
+    </topicref>
+    <topicref href="Dane_z_projektu/procesy5.dita">
+        <keydef href="Dane_z_projektu/procesy5.dita" keys="Procesy5"/>
+    </topicref>
+    <topicref
+        href="patent_w_ramach_in_ynierii_oprogramowania_model_driven_dla_wsparcia_iot__zarz_dzania_procesami_oraz_automatyk__przemys_ow_.dita">
+        <keydef keys="Patent"
+            href="patent_w_ramach_in_ynierii_oprogramowania_model_driven_dla_wsparcia_iot__zarz_dzania_procesami_oraz_automatyk__przemys_ow_.dita"
+        />
+    </topicref>
+</map>

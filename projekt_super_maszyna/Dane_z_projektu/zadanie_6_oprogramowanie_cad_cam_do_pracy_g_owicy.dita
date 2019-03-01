@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<topic id="zadanie_6_oprogramowanie_cad_cam_do_pracy_g_owicy" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="urn:oasis:names:tc:dita:xsd:topic.xsd">
+    <title>Zadanie 6 Oprogramowanie CAD/CAM do pracy głowicy</title>
+    <body>
+        <p>ZADANIE 6</p>
+        <p>Oprogramowanie CAD/CAM pracy głowicy obróbczej 3D pozwalające używać modele CAD 3D</p>
+        <p>z innych programów graficznych CAD 3 D oraz z biblioteki czesci.</p>
+        <p>Powstanie programu w formacie umozliwiajacym stworzenie programu praca głowicy 3D -
+            czyszczącej-obróbczej CAD/CAM z zastosowaniem wypracowanych grup parametrów obróbki
+            takich jak srednica strumienia od 2mm do 50mm</p>
+        <p>odleglosc dyszy od elementu w zakresie 10mm d0 200mm, szybkosc ruchu dyszy od 0 do
+            250mm/sec</p>
+        <p>gestosci linii obrobki od2mm do 50mm zależnych od przyjętych warunków</p>
+        <p>i końcowych parametrów wymaganych przez wstępne założenia do obróbki ściernej
+            elementów</p>
+        <p>z możliwością wielokrotnego użycia oprogramowania powiązanego z obrabianą częścią.</p>
+        <p>Przy produkcji seryjnej program ma podac do strefy obrobki jedynie ewentualna zmiane
+            pozycji elementu</p>
+        <p>i potwierdzenie zgodnosci obrazow obrabianej czesci z modelem lub pierwsza skanowana
+            czescia z serii.</p>
+    </body>
+</topic>
